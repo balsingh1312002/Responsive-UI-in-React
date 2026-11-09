@@ -1,5 +1,5 @@
 
-import Button from "../button/Button"
+import Button from "../button/button.jsx"
 const Card = ({name,email,btnName}) => {
   return (
     <div className="card">
