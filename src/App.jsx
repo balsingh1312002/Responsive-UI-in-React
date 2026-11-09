@@ -1,4 +1,4 @@
-import Card from './components/card/Card.jsx'
+import Card from './components/card/card.jsx'
 import './App.css'
 const App = () => {
   return (
